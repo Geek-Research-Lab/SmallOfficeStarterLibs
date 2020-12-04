@@ -88,6 +88,7 @@
     <Compile Include="Home_AR.vb" />
     <Compile Include="Home_EN.vb" />
     <Compile Include="Lang_GetUpdate.vb" />
+    <Compile Include="ListDirectory.vb" />
     <Compile Include="Logo.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -105,6 +106,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <Compile Include="Randomizerr.vb" />
+    <Compile Include="ReadDesk.vb" />
     <Compile Include="Settings.vb" />
     <Compile Include="SubmitDesk.vb" />
     <Compile Include="Theme_EN.vb" />
@@ -130,9 +132,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\frontdesk_.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <None Include="Resources\geekresearchlab.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
